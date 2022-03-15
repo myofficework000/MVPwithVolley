@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MVPwithVolley</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_mobile">Mobile</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter password</string>
+    <string name="register">Register</string>
+    <string name="registration_form">Registration form</string>
+</resources>
